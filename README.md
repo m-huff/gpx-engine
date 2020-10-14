@@ -1,9 +1,13 @@
-                                       _            
-  __ _ _ ____  __      ___ _ __   __ _(_)_ __   ___ 
- / _` | '_ \ \/ /____ / _ \ '_ \ / _` | | '_ \ / _ \
-| (_| | |_) >  <_____|  __/ | | | (_| | | | | |  __/
- \__, | .__/_/\_\     \___|_| |_|\__, |_|_| |_|\___|
- |___/|_|                        |___/              
+                                                                              88                       
+                                                                              ""                       
+                                                                                                       
+ ,adPPYb,d8 8b,dPPYba, 8b,     ,d8          ,adPPYba, 8b,dPPYba,   ,adPPYb,d8 88 8b,dPPYba,   ,adPPYba,
+a8"    `Y88 88P'    "8a `Y8, ,8P' aaaaaaaa a8P_____88 88P'   `"8a a8"    `Y88 88 88P'   `"8a a8P_____88
+8b       88 88       d8   )888(   """""""" 8PP""""""" 88       88 8b       88 88 88       88 8PP"""""""
+"8a,   ,d88 88b,   ,a8" ,d8" "8b,          "8b,   ,aa 88       88 "8a,   ,d88 88 88       88 "8b,   ,aa
+ `"YbbdP"Y8 88`YbbdP"' 8P'     `Y8          `"Ybbd8"' 88       88  `"YbbdP"Y8 88 88       88  `"Ybbd8"'
+ aa,    ,88 88                                                     aa,    ,88                          
+  "Y8bbdP"  88                                                      "Y8bbdP"                           
 
 
 To run the gpx-engine, double-click start.bat in this directory. This will execute the master R script and:
